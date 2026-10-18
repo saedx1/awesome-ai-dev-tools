@@ -531,6 +531,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[Incognito Pilot](https://github.com/silvanmelchior/IncognitoPilot)** - An open-source AI assistant with a built-in Python editor and interpreter.
 
+**[instancez](https://github.com/instancez/instancez)** - Backend for Developers and Agents - single-binary, runs anywhere.
+
 **[ironclaw](https://github.com/nearai/ironclaw)** - OpenClaw-inspired implementation in Rust focused on privacy and security.
 
 **[ivy-tendril](https://github.com/Ivy-Interactive/Ivy-Tendril)** - Open-source AI coding orchestrator that manages Claude Code, Codex, Antigravity, Copilot, and OpenCode through a plan-based lifecycle with verification gates, self-improving memory, and human-in-the-loop checkpoints. ([tendril.ivy.app](https://tendril.ivy.app))
